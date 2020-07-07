@@ -11,7 +11,8 @@
   "author": "Lucas Daniel Montivero",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.15.0",
+    "apollo-server": "^2.15.1",
+    "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "mongoose": "^5.9.20"
   },
